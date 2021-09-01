@@ -16,5 +16,5 @@ The files are ordered as follows:
     * KS TEST - OpenCV.ipynb
 
 
-* OpenCV_tables_views.xlsx 
+* OpenCV_tables_views.xlsb 
     * Contains a copy of all SQL Developer tables and views used for this project.
